@@ -1,4 +1,5 @@
 print("Hola mundo")
 
 def holaafuncion():
-    pass
+    suma=4+5
+    print(suma)
